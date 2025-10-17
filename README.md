@@ -9,7 +9,7 @@ performance do jogador ao detalhar o número total de chutes utilizados ao detal
 utilizados para alcançar a solução. Após o acerto, o jogador tem a iopção de iniciar dum novo jogo, garantindo
 a rejogabilidade.</p>
 
-<h2> 💻 Tecnologias</h2> 
+<h3> 💻 Tecnologias</h3> 
 
 *  JavaScript
 *  HTML5
